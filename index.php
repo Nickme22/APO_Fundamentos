@@ -92,21 +92,21 @@
                         <div class="col">
                             <div class="form-group">
                                 <label for="phone">Telefone</label>
-                                <input type="text" class="form-control" placeholder="(45) 9 9988-7766" name="phone"
+                                <input type="text" class="form-control" placeholder="(45) 3038-4444" name="phone"
                                     id="phone">
                             </div>
                         </div>
                         <div class="col">
                             <div class="form-group">
                                 <label for="email">E-mail</label>
-                                <input type="email" class="form-control" placeholder="pedrolara@gmail.com" name="email"
+                                <input type="email" class="form-control" placeholder="seuemail@email.com" name="email"
                                     id="email">
                             </div>
                         </div>
                     </div>
                     <div class="form-group">
                         <label for="resume">Resumo</label>
-                        <textarea class="form-control" placeholder="Boa comunicação interpessoal, com boa lógica em..."
+                        <textarea class="form-control" placeholder=""
                             name="resume" id="resume"></textarea>
                     </div>
                 </div>
