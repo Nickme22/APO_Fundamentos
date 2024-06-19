@@ -22,22 +22,22 @@
                         <div class="col-12 col-md-6">
                             <div class="form-group">
                                 <label for="name">Nome Completo</label>
-                                <input type="text" class="form-control" placeholder="Marcelo" name="name" id="name">
+                                <input type="text" class="form-control" placeholder="Marcelo de Lima" name="name" id="name">
                             </div>
                         </div>
                         <div class="col-12 col-md-2">
                             <div class="form-group">
                                 <label for="age">Data de Nascimento</label>
-                                <input type="date" class="form-control" placeholder="22/11/1997" name="age" id="age">
+                                <input type="date" class="form-control" placeholder="28/05/191987" name="age" id="age">
                             </div>
                         </div>
                     </div>
                     
                     <div class="row">
-                        <div class="col-12 col-md-7">
+                        <div class="col-12 col-md-6">
                             <div class="form-group">
-                                <label for="role">Cargo pretendido</label>
-                                <input type="text" class="form-control" placeholder="Advogado" name="role" id="role">
+                                <label for="role">Vaga pretendida</label>
+                                <input type="text" class="form-control" placeholder="Auxiliar administrativo" name="role" id="role">
                             </div>
                         </div>
                         <div class="col-12 col-md-5">
@@ -50,7 +50,6 @@
                     <div class="row">
                         <div class="col-12 col-md-2">
                             <div class="form-group" id="tooltip">
-                                <span id="tooltipText">Puxa os endereços automaticamente</span>
                                 <label for="cep"><u>CEP</u></label>
                                 <input type="text" class="form-control" placeholder="85.802-130" name="cep" id="cep"
                                     maxlength="10" onblur="pesquisacep(this.value);">
@@ -71,7 +70,7 @@
                         <div class="col-12 col-md-3">
                             <div class="form-group">
                                 <label for="district">Bairro</label>
-                                <input type="text" class="form-control" placeholder="Neva" name="district" id="district">
+                                <input type="text" class="form-control" placeholder="Centro" name="district" id="district">
                             </div>
                         </div>
                     </div>
@@ -143,5 +142,5 @@
     </main>
 </body>
 </html>
-
+<script>src ="\xampp\htdocs\APO_Fundamentos\js\index.js"</script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
