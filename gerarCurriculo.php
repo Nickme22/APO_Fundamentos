@@ -1,7 +1,4 @@
 <?php
-//Captura o modelo selecionado
-$modelo = $_POST['modelo'];
-
 //Verifica se o cliente selecionou uma foto no formulário ou deixou em branco
 if($_FILES['photo']['size'] > 0){
 
@@ -47,4 +44,4 @@ $dados = array(
                       ) : null //nulo se não houver experiencia
 );
 
-require_once('modelos/modelo.php');
+require_once('modelo/modelo.php');
