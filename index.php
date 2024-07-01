@@ -97,21 +97,29 @@
                         <div class="col">
                             <div class="form-group">
                                 <label for="phone">Telefone</label>
+
                                 <input type="text" class="form-control" placeholder="(47) 9.9999-1819" name="phone"
+
+
                                     id="phone">
                             </div>
                         </div>
                         <div class="col">
                             <div class="form-group">
                                 <label for="email">E-mail</label>
+
                                 <input type="email" class="form-control" placeholder="Sugestao@gmail.com" name="email"
+
+
                                     id="email">
                             </div>
                         </div>
                     </div>
                     <div class="form-group">
                         <label for="resume">Resumo</label>
+
                         <textarea class="form-control" placeholder="Descreva um resumo "
+
                             name="resume" id="resume"></textarea>
                     </div>
                 </div>
